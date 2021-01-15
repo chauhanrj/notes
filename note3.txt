@@ -1,1 +1,7 @@
 This doc will contain various shortcuts for backend development
+ Topics for practice
+ -Node
+ -Express
+ -Nodemon
+ -various npm modules
+ -Api initaialisation
