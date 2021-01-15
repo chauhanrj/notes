@@ -1,0 +1,1 @@
+This doc will contain various shortcuts for backend development
