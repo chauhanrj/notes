@@ -5,3 +5,6 @@ This doc will contain various shortcuts for backend development
  -Nodemon
  -various npm modules
  -Api initaialisation
+ 
+ There is LOT yet to learn, a lot of technologies actally
+ 
