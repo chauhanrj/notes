@@ -1,1 +1,4 @@
 This doc will contain various shortcuts/commands for vcs and github
+
+*.txt is a shortcut which will hide all the text files if written in .gitignore file;
+
